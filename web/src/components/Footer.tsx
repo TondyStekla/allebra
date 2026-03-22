@@ -114,7 +114,13 @@ export default function Footer() {
             reserved.
           </p>
           <p className="text-xs text-gray-500">
-            IČO: 55 420 095 &nbsp;&nbsp;&middot;&nbsp;&nbsp; DIČ: 2121981664 &nbsp;&nbsp;&middot;&nbsp;&nbsp; IČ DPH: SK2121981664
+            <span className="inline-flex items-center gap-6">
+              <span>IČO: 55 420 095</span>
+              <span>&middot;</span>
+              <span>DIČ: 2121981664</span>
+              <span>&middot;</span>
+              <span>IČ DPH: SK2121981664</span>
+            </span>
           </p>
           <p className="text-xs text-gray-600">
             Simplify your IT. Focus on your business.
