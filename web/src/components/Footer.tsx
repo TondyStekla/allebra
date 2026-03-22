@@ -103,6 +103,11 @@ export default function Footer() {
                 <br />
                 Slovakia
               </li>
+              <li className="pt-2 space-y-1 text-gray-500 text-xs">
+                <p>IČO: 55 420 095</p>
+                <p>DIČ: 2121981664</p>
+                <p>IČ DPH: SK2121981664</p>
+              </li>
             </ul>
           </div>
         </div>
