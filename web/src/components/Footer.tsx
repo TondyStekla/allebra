@@ -103,11 +103,6 @@ export default function Footer() {
                 <br />
                 Slovakia
               </li>
-              <li className="pt-2 space-y-1 text-gray-500 text-xs">
-                <p>IČO: 55 420 095</p>
-                <p>DIČ: 2121981664</p>
-                <p>IČ DPH: SK2121981664</p>
-              </li>
             </ul>
           </div>
         </div>
@@ -117,6 +112,9 @@ export default function Footer() {
           <p className="text-xs text-gray-500">
             &copy; {new Date().getFullYear()} Allebra s.r.o. All rights
             reserved.
+          </p>
+          <p className="text-xs text-gray-500">
+            IČO: 55 420 095 &middot; DIČ: 2121981664 &middot; IČ DPH: SK2121981664
           </p>
           <p className="text-xs text-gray-600">
             Simplify your IT. Focus on your business.
