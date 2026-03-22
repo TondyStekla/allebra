@@ -1,0 +1,60 @@
+=====================================
+ALLEBRA — WEBSITE CONTENT
+=====================================
+--- NAVBAR ---
+Logo: Allebra
+Links: Why Allebra | How We Work | Services | Contact
+CTA: Talk to an Expert
+--- HERO ---
+Headline: SAP Expertise That Works. No Noise.
+Subheadline: Allebra is a boutique SAP consultancy built on senior delivery and measurable outcomes. We absorb the complexity so your team stays focused on the business that matters.
+CTA Primary: Talk to an Expert
+CTA Secondary: See How We Work
+--- 01 / WHY ALLEBRA ---
+Section Label: 01 / Why Allebra
+Heading: We Exist Because Most SAP Projects Fail People.
+Paragraph 1: SAP complexity is a drag on every organisation that hasn't solved it — and most never fully do. We built Allebra because we believe businesses deserve senior expertise from day one, not after a chain of handoffs and escalations.
+Paragraph 2: Every engagement we take on starts with a simple conviction: your people should be driving growth, not managing system friction. That's the only reason we exist — and it shapes every decision we make.
+--- 02 / HOW WE WORK ---
+Section Label: 02 / How We Work
+Heading: Principles, Not Promises.
+Block 01 — Senior by Design:
+Every engagement is led and delivered by certified SAP specialists. No juniors learning on your budget, no account managers standing between you and the people doing the work.
+Block 02 — Tailored, Not Templated:
+We don't recycle playbooks. Before we propose anything, we understand your system landscape, your constraints, and what success looks like for your organisation — specifically.
+Block 03 — Direct. Accountable. Clear.:
+You always know who owns your engagement, what's being delivered, and where things stand. We set clear expectations upfront and hold ourselves to them.
+Block 04 — Built for the Long Run:
+We work with clients who want a trusted partner, not a vendor rotation. The deeper we understand your SAP environment, the more value we create — and we invest accordingly.
+--- 03 / SERVICES ---
+Section Label: Our Expertise
+Heading: Comprehensive SAP Solutions
+Subtitle: From strategy to execution — we deliver measurable results across the entire SAP lifecycle
+Service 1 — SAP Development:
+Custom ABAP development, SAP Fiori/UI5 applications, system integrations, and bespoke reporting solutions. We extend your SAP landscape to meet the most demanding business requirements.
+Service 2 — SAP Consulting:
+End-to-end project guidance — from greenfield implementations and S/4HANA migrations to module-specific optimizations. Our certified consultants bring deep cross-industry expertise to every engagement.
+Service 3 — SAP Support & Optimization:
+Proactive system monitoring, performance tuning, and continuous improvement services. We ensure your SAP environment operates at peak efficiency with minimal downtime.
+--- 04 / CLIENTS & STATS ---
+Section Label: 04 / Trusted Across Europe
+Heading: Results We Can Stand Behind.
+Stats:
+- 18+ Projects Delivered
+- 11+ Years of SAP Expertise
+- 5 Industries Served
+Client Logos:
+SAP | EY | DXC Technology | E.ON | CEZ Group | Engie | ZSE | Teamative | Seoyon E-Hwa | U. S. Steel
+--- CONTACT CTA ---
+Heading: Your SAP Shouldn't Slow You Down.
+Paragraph: Tell us where the friction is. One conversation is enough to know if we're the right fit — and what we'd do about it.
+CTA: Talk to an Expert
+--- FOOTER ---
+Tagline: Boutique SAP consulting, senior-led by design.
+Quick Links: Why Allebra | How We Work | Services | Contact
+Contact:
+Address: Brezov 123, 087 01 Giraltovce, Slovakia
+Email: info@allebra.com
+Phone: +421 915 924 053
+Social: LinkedIn | Instagram
+Copyright: © 2026 Allebra s.r.o. All rights reserved.
