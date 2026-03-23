@@ -88,14 +88,6 @@ export default function Footer() {
                   info@allebra.com
                 </a>
               </li>
-              <li>
-                <a
-                  href="tel:+421915924053"
-                  className="hover:text-primary transition-colors duration-200"
-                >
-                  +421 915 924 053
-                </a>
-              </li>
               <li className="leading-relaxed">
                 Brezov 123
                 <br />
