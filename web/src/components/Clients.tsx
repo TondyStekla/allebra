@@ -121,7 +121,7 @@ export default function Clients() {
             <div className="absolute left-0 top-0 bottom-0 w-24 bg-gradient-to-r from-white to-transparent z-10 pointer-events-none" />
             <div className="absolute right-0 top-0 bottom-0 w-24 bg-gradient-to-l from-white to-transparent z-10 pointer-events-none" />
 
-            <div className="flex animate-scroll">
+            <div className="flex w-max animate-scroll">
               {[...clients, ...clients].map((client, i) => (
                 <div
                   key={`${client.name}-${i}`}
