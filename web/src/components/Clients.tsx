@@ -20,6 +20,7 @@ const clients = [
   { name: "CEZ Group", logo: "/images/clients/cez.png" },
   { name: "Engie", logo: "/images/clients/Logo-engie.svg" },
   { name: "ZSE", logo: "/images/clients/zse.png" },
+  { name: "O2", logo: "/images/clients/o2.png" },
   { name: "Teamative", logo: "/images/clients/teamative Logo Forrest Green - Standard 1.png" },
   { name: "Seoyon E-Hwa", logo: "/images/clients/seyon.png" },
   { name: "U. S. Steel", logo: "/images/clients/uss.png" },
